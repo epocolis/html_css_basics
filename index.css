@@ -38,7 +38,7 @@ img {
 body {
     font-family: 'PT Sans', sans-serif;
     line-height: 1.6;
-    color: red;
+    color: white;
     background: #1A1E26; 
     font-size: 21px;
 } 
@@ -123,4 +123,12 @@ section {
 
 .extra-space {
     margin-top: 10rem;
+}
+
+.text-accent { 
+    color:#3339C9; 
+}
+
+.text-dark{
+    color:#1A1E26; 
 }
