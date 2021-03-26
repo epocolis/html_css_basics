@@ -109,3 +109,12 @@ section {
     text-align: center;
 }
 
+.columns{
+    display:flex
+}
+
+.col{ 
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
